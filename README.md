@@ -42,12 +42,13 @@ The method draws inspiration from synaptic pruning in human brain development, w
 ## Repository Structure
 
 ```
-
-dynamic-lottery-tickets/
-├── 00\_Implementation\_On\_Cifar10.ipynb     # CIFAR-10 with progressive pruning
-├── 01\_Implementation\_On\_MNIST.ipynb       # MNIST experiment
-├── Dense\_Baseline\_Comparison\_Code.ipynb   # Dense baseline for comparison
-└── README.md                              # This file
+AI_Research_Dynamic_NN/
+├── 00_Implementation_On_Cifar10.ipynb # CIFAR-10 with progressive pruning
+├── 01_Implementation_On_MNIST.ipynb # MNIST experiment
+├── Dense_Baseline_Comparison_Code.ipynb # Dense baseline for comparison
+├── algorithm_diagram.png 
+├── diagram2.pdf 
+└── README.md # This file                          
 
 
 ## Getting Started
