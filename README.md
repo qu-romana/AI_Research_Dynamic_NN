@@ -50,7 +50,7 @@ AI_Research_Dynamic_NN/
 │ └── algorithm_diagram.png # Progressive dynamic pruning flowchart
 ├── diagram2.pdf # Algorithm diagram (PDF)
 └── README.md # This file                         
-
+```
 
 ## Getting Started
 
