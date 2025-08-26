@@ -46,9 +46,10 @@ AI_Research_Dynamic_NN/
 ├── 00_Implementation_On_Cifar10.ipynb # CIFAR-10 with progressive pruning
 ├── 01_Implementation_On_MNIST.ipynb # MNIST experiment
 ├── Dense_Baseline_Comparison_Code.ipynb # Dense baseline for comparison
-├── algorithm_diagram.png 
-├── diagram2.pdf 
-└── README.md # This file                          
+├── images/ # Folder containing diagrams
+│ └── algorithm_diagram.png # Progressive dynamic pruning flowchart
+├── diagram2.pdf # Algorithm diagram (PDF)
+└── README.md # This file                         
 
 
 ## Getting Started
@@ -140,7 +141,7 @@ The progressive dynamic pruning algorithm works as follows:
 
 ### Algorithm Diagram
 
-![Progressive Dynamic Pruning Algorithm](algorithm_diagram.png)
+![Progressive Dynamic Pruning Algorithm](images/algorithm_diagram.png)
 
 *Figure: Overview of the progressive dynamic pruning process applied during training.*
 
